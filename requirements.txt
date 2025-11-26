@@ -1,0 +1,22 @@
+
+langchain_community 
+flashrank 
+urlextract 
+ddgs 
+langchain_chroma 
+langgraph 
+wikipedia 
+langchain 
+langchain_text_splitters 
+huggingface_hub 
+sentence-transformers 
+groq 
+langchain_groq 
+langchain-huggingface
+langchain-classic
+langgraph-cli[inmem]
+python-dotenv
+playwright 
+unstructured
+langchain-classic
+#playwright install
